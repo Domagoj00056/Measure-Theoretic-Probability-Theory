@@ -10,3 +10,20 @@ Rather than treating probability as a collection of formulas, the project builds
 The project concludes with a rigorous development of the **Lindeberg Central Limit Theorem**, together with numerical simulations in **R** illustrating convergence to the normal distribution.
 
 📄 **Dissertation PDF:** [Click here](https://github.com/Domagoj00056/Measure-Theoretic-Probability-Theory/blob/main/Stirling_Diss_Measure%20(61).pdf)
+
+
+
+
+## Topics Covered
+
+- σ-algebras and measures
+- Carathéodory Extension Theorem
+- Lebesgue measure
+- Measurable functions
+- Lebesgue integration
+- Monotone, Fatou and Dominated Convergence Theorems
+- Pushforward measures and distributions
+- Change of variables
+- Fubini–Tonelli Theorem
+- Lindeberg Central Limit Theorem
+- R simulations
