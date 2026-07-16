@@ -1,5 +1,5 @@
 # Measure-Theoretic-Probability-Theory
-
+<img src="images/cantor-set.png" width="600">
 ## 📖 Overview
 
 This project develops the foundations of **measure-theoretic probability**, beginning with the construction of measures and integration before applying these tools to modern probability theory.
